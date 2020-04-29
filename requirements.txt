@@ -21,9 +21,7 @@ hyperlink==19.0.0
 idna==2.9
 incremental==17.5.0
 kiwisolver==1.2.0
-matplotlib==3.2.1
 numpy==1.18.3
-pandas==1.0.3
 Pillow==7.1.2
 psycopg2==2.8.5
 pycparser==2.20
@@ -41,5 +39,4 @@ urllib3==1.25.9
 virtualenv==20.0.18
 virtualenvwrapper-win==1.2.6
 whitenoise==5.0.1
-wxPython==4.1.0
 zope.interface==5.1.0
